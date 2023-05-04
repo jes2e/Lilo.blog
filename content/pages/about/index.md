@@ -1,13 +1,11 @@
 +++
-title = "About me"
+title = "Jes2e.l"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
-![](/img/default-author.jpg)
+![](779139_11zon.jpg)
 
-## My Name
+## Jesse Lu
 
-mail@example.org
-
-Here should be some info about me...
+newjesse19@gmail.com
