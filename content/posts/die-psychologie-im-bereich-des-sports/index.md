@@ -3,14 +3,18 @@ title = "Die Psychologie im Bereich des Sports"
 date = "2023-05-31"
 draft = false
 pinned = false
+tags = ["Deutsch", "Reportage"]
+image = "microsoftteams-image-5-.png"
 +++
 <!--StartFragment-->
 
-Die meisten von uns treiben gerne Sport, vor allem haben viele Jugendliche den Traum, irgendwann im Leben Profisportler zu werden.  
+**Die meisten von uns treiben gerne Sport, vor allem haben viele Jugendliche den Traum, irgendwann im Leben Profisportler zu werden.**  
 
-Dennoch schaffen es nur wenige, diesen Traum zu erreichen. Deshalb fragt man sich, wie man es schafft, ein Profi zu werden.  
+**Dennoch schaffen es nur wenige, diesen Traum zu erreichen. Deshalb fragt man sich, wie man es schafft, ein Profi zu werden.**  
 
-Die Antwort ist recht simpel, aber diese umzusetzen ist nicht so einfach.  
+**Die Antwort ist recht simpel, aber diese umzusetzen ist nicht so einfach.**  
+
+Von **Jesse Lu** und **Garid Amarjargal**
 
 Was den meisten Sportlern auf dieser Welt fehlt, ist eine gute Mentalität und ein gutes Mindset.  
 
@@ -32,7 +36,7 @@ Wenn unser Kopf klar ist, ohne irgendwelche Ablenkungen, können wir dann klar d
 
 Natürlich gibt es auch Tage, an denen wir mal nicht trainieren möchten. Diese Tage haben alle schon einmal erlebt, auch Berufssportler. Doch der Unterschied zwischen einem Profisportler und einem normalen Sportler ist, dass ein durchschnittlicher Sportler von der Motivation angetrieben wird und ein Profisportler durch die Disziplin. Ich möchte diesen Abschnitt mit einem Zitat von Dwayne (The Rock) Johnson beenden: 
 
-«The man who goes to the gym every single day regardless of how he feels will always beat the man who goes to the gym when he feels like going to the gym. » -Dwayne Johnson 
+«The man who goes to the gym every single day regardless of how he feels will always beat the man who goes to the gym when he feels like going to the gym. » *\-Dwayne Johnson* 
 
 ![Foto aufgenommen von Garid Amarjargal](microsoftteams-image-8-.png)
 
@@ -50,13 +54,13 @@ Insgesamt gibt es also viele Möglichkeiten, die Sportpsychologie zu verbessern.
 
 Ein Sportlehrer hat oft die Aufgabe, Sportler/-innen zu trainieren und zu motivieren, um ihre Leistungen zu verbessern. Dazu gehört auch das Verständnis der psychologischen Faktoren, die einen Einfluss auf die sportlichen Leistungen haben können. Daher haben wir uns entschieden, einen Sportlehrer oder Trainer zu diesem Thema zu interviewen, um ein besseres Verständnis dafür zu bekommen, wie psychologische Prinzipien angewendet werden können, um die Leistung zu verbessern. Außerdem können sie mögliche wertvolle Einblicke aus ihren eigenen Erfahrungen und ihrem Fachwissen teilen. Wir haben uns für Dr. Urs Schnyder entschieden, da er als Schiedsrichter mit professionellen Fußballspielern arbeitet und daher viele Erfahrungen zu diesem Thema hat. Das Interview mit ihm war sehr angenehm und seine Antworten waren sehr leidenschaftlich. Wir haben nicht nur viel über das Thema gelernt, sondern auch darüber, wie man bei Fragen vollständig und enthusiastisch antworten sollte. 
 
-«Die Psychologie kann eine wichtige Rolle dabei spielen, Menschen zu helfen, ihr Leben in schwierigen Situationen zu meistern und ihre persönlichen Ziele zu erreichen. »  -Dr. Urs Schnyder 
+«Die Psychologie kann eine wichtige Rolle dabei spielen, Menschen zu helfen, ihr Leben in schwierigen Situationen zu meistern und ihre persönlichen Ziele zu erreichen. »  *\-Dr. Urs Schnyder* 
 
 ![Schweizerischer Fussballverband - Urs Schnyder (football.ch)](urs.png)
 
 Als zweiter Interviewpartner wollten wir jemanden aus unserer Klasse wählen, der regelmäßig Sport treibt, um ein offenes Interview zu führen. Während wir nach einem geeigneten Kandidaten suchten, haben wir festgestellt, dass viele von uns regelmäßig trainieren. Schließlich haben wir uns für Leif Schuppli entschieden. Das Interview mit ihm war ebenfalls sehr angenehm und lustig, dauerte jedoch länger als das mit Dr. Urs Schnyder. Wir haben am Anfang des Interviews über die Sportarten (Fußball und Leichtathletik) gesprochen, die er trainiert, und dann die gleichen Fragen wie bei Dr. Urs Schnyder gestellt. Am Ende haben wir über das Gespräch mit Dr. Urs Schnyder diskutiert und Leifs Meinungen dazu gehört. Er hat uns erzählt, dass er und seine Mannschaft mehrmals an großen Turnieren teilgenommen haben, aber sie haben ihre Mentalität nie darauf vorbereitet. Wir denken, dass es eine gute Entscheidung war, Leif zu interviewen, und hoffen, dass er durch unsere Reportage etwas lernt und seine Mannschaftsmitglieder darüber informiert. 
 
-«Ich glaube, dass für Jugendliche das Körpertraining viel wichtiger ist als das mentale Training» -Leif Schuppli 
+«Ich glaube, dass für Jugendliche das Körpertraining viel wichtiger ist als das mentale Training» *\-Leif Schuppli* 
 
 ![Leif Schuppli](leif.png)
 
