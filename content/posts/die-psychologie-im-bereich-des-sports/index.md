@@ -8,9 +8,7 @@ image = "microsoftteams-image-5-.png"
 +++
 <!--StartFragment-->
 
-**Die meisten von uns treiben gerne Sport, vor allem haben viele Jugendliche den Traum, irgendwann im Leben Profisportler zu werden.**  
-
-**Dennoch schaffen es nur wenige, diesen Traum zu erreichen. Deshalb fragt man sich, wie man es schafft, ein Profi zu werden.**  
+**Die meisten von uns treiben gerne Sport, vor allem haben viele Jugendliche den Traum, irgendwann im Leben Profisportler zu werden.**  **Dennoch schaffen es nur wenige, diesen Traum zu erreichen. Deshalb fragt man sich, wie man es schafft, ein Profi zu werden.**  
 
 **Die Antwort ist recht simpel, aber diese umzusetzen ist nicht so einfach.**  
 
